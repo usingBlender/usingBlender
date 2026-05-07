@@ -64,10 +64,10 @@ class Program
 
 <div align="left">
 
-#### OS
+### OS
 <img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/b53c4b90276e77d530785cb60d33c6bc3cc02f45/icons/endeavour-logo-sans-logotype.svg" title="Endeavour" width="40" height="40"/>
 
-#### Tools
+### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="nvim" width="40" height="40"/>
 <img width="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>
@@ -80,7 +80,7 @@ class Program
 <img width="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" width="40" height="40"/>
 
-#### Stack
+### Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" width="40" height="40"/>
 <img width="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" width="40" height="40"/>
@@ -89,7 +89,7 @@ class Program
 
 </div>
 
-# Cat Break
+### Cat Break
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQxbTgxMnFsN3E3ZDVqczdoZnAxNXAzdzVpd3p5cmwzdGtrOWpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPwPJ3Yz8c39X8Y/giphy.gif" width="260"/>
 
 </td>
