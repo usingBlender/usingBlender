@@ -40,8 +40,10 @@ class Me:
   course: str = "Computer Engineering"
   semester: int = 2
 
-  greet_string: str = "Thank you for visiting, please feel free to " +
-                      "check out my projects & reach out! 🩷"
+  greet_string: str = "Thank you for visiting, " +
+                      "please feel free to " +
+                      "check out my projects " +
+                      "& reach out! 🩷"
 
   def greet():
     print(greet_string)
@@ -59,9 +61,6 @@ me.greet()
 # Tech & Tooling
 
 <div align="left">
-
-### OS
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" title="Endeavour" width="40" height="40"/>
 
 ### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="nvim" width="40" height="40"/>
