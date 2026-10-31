@@ -87,7 +87,7 @@ me.greet()
 
 ---
 
-<img src="https://static2.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/46/78/dr1mZoTw.gif" width="260"/>
+<img src="https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/e2/5f/q2ni3HCCTfUFD.gif" width="260"/>
 
 </td>
 </tr>
