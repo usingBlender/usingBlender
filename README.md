@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/0oX33YwoGOQAAAAj/desert-race.gif" width="200"/>
+  <img src="https://static2.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/46/78/dr1mZoTw.gif" width="200"/>
 </div>
 
 <div align="center">
@@ -24,34 +24,30 @@
 # About Me
 
 <div align="left">
-  
-```C#
-class Program
-{
-  public static void Main(string[] args)
-  {
-    var enzo = new Dev
-    {
-      string name = "Enzo Medeiros",
-      string currentlyAt = "👀​",
 
-      string[] specialties = [
-        "3D Art & Design 🖌️",
-        ".NET Framework 📜",
-        "IOS Development 📱"
-      ],
+```python
+class Me:
+  name: str = "Enzo M."
+  employed: bool = True
 
-      string university = "IFCE",
-      string course = "Computer Engineering",
-      int semester = 1
-    };
+  specialties: list[str] = [
+    "3D Art & Design 🖌️",
+    "IOS Development 📱",
+    "Python & FastAPI"
+  ]
 
-    Console.OutputEncoding = System.Text.Encoding.UTF8;
-    Console.WriteLine(enzo.greetString);
-    // "Thank you for visiting, please feel free to-
-    // check out my projects & reach out! ❤️​"
-  }
-}
+  uni: str = "IFCE"
+  course: str = "Computer Engineering"
+  semester: int = 2
+
+  greet_string: str = "Thank you for visiting, please feel free to " +
+                      "check out my projects & reach out! 🩷"
+
+  def greet():
+    print(greet_string)
+
+me = Me()
+me.greet()
 ```
 
 </div>
@@ -65,7 +61,7 @@ class Program
 <div align="left">
 
 ### OS
-<img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/b53c4b90276e77d530785cb60d33c6bc3cc02f45/icons/endeavour-logo-sans-logotype.svg" title="Endeavour" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original" title="Endeavour" width="40" height="40"/>
 
 ### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="nvim" width="40" height="40"/>
@@ -83,7 +79,7 @@ class Program
 ### Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" width="40" height="40"/>
 <img width="10" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="c#" width="40" height="40"/>
 <img width="10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" width="40" height="40"/>
 
@@ -91,7 +87,7 @@ class Program
 
 ---
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQxbTgxMnFsN3E3ZDVqczdoZnAxNXAzdzVpd3p5cmwzdGtrOWpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPwPJ3Yz8c39X8Y/giphy.gif" width="260"/>
+<img src="https://static2.klipy.com/ii/935d7ab9d8c6202580a668421940ec81/46/78/dr1mZoTw.gif" width="260"/>
 
 </td>
 </tr>
